@@ -121,3 +121,6 @@
 {"v":1,"id":["01KRPJ4X6SVYY49NR843G5YQYT","01KRPHR4CABZ28TP9K6WNRJ0SD"],"move.node":{"id":"01KRJQJMX5Y7FM0420MPKJ9SXW","parent":"01KRJQHQJ47R6M445Z7NGJZCJY","rank":"dfffffffffffffffffffffff"}}
 {"v":1,"id":["01KRPJ57E2BX5WG273QJSR2EJ3","01KRPJ4X6SVYY49NR843G5YQYT"],"move.node":{"id":"01KRKXKNK45BC7VRPKGDN26RKS","parent":"01KRJQHQJ47R6M445Z7NGJZCJY","rank":"efffffffffffffffffffffff"}}
 {"v":1,"id":["01KRPJ63KTJC3JVG3P7PQ9SNAM","01KRPJ57E2BX5WG273QJSR2EJ3"],"delete.node":{"id":"01KRPHR1QT7BE5K7E98STXWJ96"}}
+{"v":1,"id":["01KRPJ76YPK8CG73QB5J0T794W","01KRPJ63KTJC3JVG3P7PQ9SNAM"],"add.issue":{"id":"01KRPJ76YMDK3APP2VBTTTYZPK","parent":"01KRJQHQJ47R6M445Z7NGJZCJX","name":"Implement user authentication and login system","rank":"fdffffffffffffffffffffff"}}
+{"v":1,"id":["01KRPJ79S03YSVA95C0Z5CS7ZN","01KRPJ76YPK8CG73QB5J0T794W"],"add.issue":{"id":"01KRPJ79RZZC7K8PN4Q28W3GQY","parent":"01KRJQHQJ47R6M445Z7NGJZCJX","name":"Design and implement REST API endpoints","rank":"feffffffffffffffffffffff"}}
+{"v":1,"id":["01KRPJ7CBABRVGH9ARVSZY2E2V","01KRPJ79S03YSVA95C0Z5CS7ZN"],"add.issue":{"id":"01KRPJ7CB9VTXSZVZQ3ME9B4E3","parent":"01KRJQHQJ47R6M445Z7NGJZCJX","name":"Set up database schema and migrations","rank":"ff7fffffffffffffffffffff"}}
