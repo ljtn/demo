@@ -175,3 +175,4 @@
 {"v":1,"id":["01KRPQF6RDWXYGCHTMFQ6XMJRD","01KRPQF6QSPW0JMYPP8DCG42V0"],"add.issue.tag":{"id":"01KRPQEWGG8A57C8E92EHPG1B5","tag":"01KRPQF6QP0KDMYNAM74D4XGY7"}}
 {"v":1,"id":["01KRPQFGMCZPPHE6WW54F0RJ88","01KRPQF6RDWXYGCHTMFQ6XMJRD"],"add.issue.assignee":{"id":"01KRPQEWGG8A57C8E92EHPG1B5","assignee":"01krjqgzhzschkjqyv399fxg1w"}}
 {"v":1,"id":["01KRPQFN6H4F2J6ZRMAH2295KR","01KRPQFGMCZPPHE6WW54F0RJ88"],"move.node":{"id":"01KRPQEWGG8A57C8E92EHPG1B5","parent":"01KRJQHQJ47R6M445Z7NGJZCJY","rank":"feffffffffffffffffffffff"}}
+{"v":1,"id":["01KRPQHKR4FBCYVMGWSKQAVHRD","01KRPQFN6H4F2J6ZRMAH2295KR"],"edit.description":{"id":"01KRPQEWGG8A57C8E92EHPG1B5","md":"Build an AI agent that gathers information, suimmarizes sources, generates reports, and manages long-running research workflows.\n\nDone by week 32.\n"}}
