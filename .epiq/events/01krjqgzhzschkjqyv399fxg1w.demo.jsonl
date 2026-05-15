@@ -107,3 +107,4 @@
 {"v":1,"id":["01KRNNDAJA784SV32V8DFP9AR9","01KRNND7QNXMXB6K3CBYWCK292"],"move.node":{"id":"01KRNND7QHEAMEPS7AF9VK7G87","parent":"01KRJQHQJ47R6M445Z7NGJZCJY","rank":"bfffffffffffffffffffffff"}}
 {"v":1,"id":["01KRNNDC09AH39QN3SQW20WWKA","01KRNNDAJA784SV32V8DFP9AR9"],"move.node":{"id":"01KRKXKNK45BC7VRPKGDN26RKS","parent":"01KRJQHQJ47R6M445Z7NGJZCJZ","rank":"7fffffffffffffffffffffff"}}
 {"v":1,"id":["01KRNNDMWSP68RCZ1WM5H2DXBP","01KRNNDC09AH39QN3SQW20WWKA"],"add.issue.assignee":{"id":"01KRNND7QHEAMEPS7AF9VK7G87","assignee":"01krjqgzhzschkjqyv399fxg1w"}}
+{"v":1,"id":["01KRNP20R6ZMQC7NB6W0DHMHB3","01KRNNDMWSP68RCZ1WM5H2DXBP"],"edit.description":{"id":"01KRJQJMX5Y7FM0420MPKJ9SXW","md":"Build a frontend\n\nAdd styling\n\nAdd buttons\n\nAlso make it great\n\nAdd more buttons"}}
