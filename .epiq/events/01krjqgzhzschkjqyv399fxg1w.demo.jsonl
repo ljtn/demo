@@ -115,3 +115,4 @@
 {"v":1,"id":["01KRPCX3MPK2CYCB6359X3EH10","01KRNY3GTD1415D0RKK5D7AD8D"],"move.node":{"id":"01KRJQJMX5Y7FM0420MPKJ9SXW","parent":"01KRJQHQJ47R6M445Z7NGJZCJX","rank":"5fffffffffffffffffffffff"}}
 {"v":1,"id":["01KRPGZXAPZSG7GG5H8A0V36PE","01KRPCX3MPK2CYCB6359X3EH10"],"add.issue":{"id":"01KRPGZXAMKY9QCKDYWQF23WYE","parent":"01KRJQHQJ47R6M445Z7NGJZCJX","name":"Implement user authentication and login system","rank":"dfffffffffffffffffffffff"}}
 {"v":1,"id":["01KRPH282FQ41H0ZWPW3KG2VPC","01KRPGZXAPZSG7GG5H8A0V36PE"],"add.issue":{"id":"01KRPH282EV06A7N5MST3FB8K6","parent":"01KRJQHQJ47R6M445Z7NGJZCJX","name":"Implement user authentication and login system","rank":"efffffffffffffffffffffff"}}
+{"v":1,"id":["01KRPH3ANWGAH611CAVCDG4GC6","01KRPH282FQ41H0ZWPW3KG2VPC"],"delete.node":{"id":"01KRPGZXAMKY9QCKDYWQF23WYE"}}
