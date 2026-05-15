@@ -163,3 +163,5 @@
 {"v":1,"id":["01KRPP0HVESYPJB2GYBVZP2DHC","01KRPP0F82CMVY8506ETYTYD29"],"edit.description":{"id":"01KRPJ9CXH6D1PEYP4PA28SRZ0","md":"Create thorough project documentation:\n- API documentation with examples\n- Developer setup and contribution guide\n- User manual and tutorials\n- Architecture and design decisions\n- Deployment and operations guide\n- Troubleshooting and FAQ section"}}
 {"v":1,"id":["01KRPPG0W3RBM01SQTJ6BAHAYN","01KRPP0HVESYPJB2GYBVZP2DHC"],"create.tag":{"id":"01KRPPG0VZ88VPFR7Y0XVN539T","name":"infra"}}
 {"v":1,"id":["01KRPPG0WT6SJX90VRC38N145R","01KRPPG0W3RBM01SQTJ6BAHAYN"],"add.issue.tag":{"id":"01KRPJ91HHY0G7SSWD8SWZ810Q","tag":"01KRPPG0VZ88VPFR7Y0XVN539T"}}
+{"v":1,"id":["01KRPPGJWXTRDRTRF6VHNS38ET","01KRPPG0WT6SJX90VRC38N145R"],"create.tag":{"id":"01KRPPGJWWQHDHEJEZ0AK32JY6","name":"documentation"}}
+{"v":1,"id":["01KRPPGJXEFQC13FKVD7CYRJAD","01KRPPGJWXTRDRTRF6VHNS38ET"],"add.issue.tag":{"id":"01KRPJ9CXH6D1PEYP4PA28SRZ0","tag":"01KRPPGJWWQHDHEJEZ0AK32JY6"}}
